@@ -1,5 +1,5 @@
-# FileTools
-FileTools是一款方便快捷的文档处理工具，可以批量处理Word内容。
+# AnFileTools
+AnFileTools是一款方便快捷的文档处理工具，可以批量处理Word内容。
 
 批量替换界面，支持批量替换word里的内容，支持多个关键字同时替换，使用英文逗号,分开。
 
